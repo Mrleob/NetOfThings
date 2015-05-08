@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NetOfThings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="back">后退</string>
+    <string name="nothing">" "</string>
+    <string name="title_login">登陆</string>
+    <string name="title_register">注册</string>
+    <string name="button_login">登陆</string>
+    <string name="button_register">注册</string>
+    <string name="uphone_hint">请输入您的手机号码</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="password_hint_again">请再次输入密码</string>
+	<string name="forget_password">忘记密码？</string>
+	<string name="register">注册</string>
+	<string name="get_location">我的位置</string>
+	<string name="get_orbit">查看轨迹</string>
+</resources>
